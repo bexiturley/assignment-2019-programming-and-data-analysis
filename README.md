@@ -24,7 +24,7 @@ To begin, create a GitHub account and clone or copy the repository.
 
 Link: https://github.com/bexiturley/assignment-2019-programming-and-data-analysis.git
 
-To run the file, open it in Juypter notebook. This is already installed if anaconda has been downloaded. 
+To run the file, open it in Juypter notebook. Jupyter is a python package and comes by default installed with Anaconda. If Anaconda is not already installed it will have to be done so seperately. 
 
 Access the repository on local machine via command line.  Run Jupyter notebook and open file 
 
