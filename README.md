@@ -17,7 +17,8 @@ Explain the use of the "Simple random data" and "Permutations" functions.
 Explain the use an purpose of at least five "Distributions" functions.
 
 *Task 4*   
-Explain the use of seeds in generating pseudorandom numbers.
+Explain the use of seeds in generating pseudorandom numbers.    
+
 
 
 To begin, create a GitHub account and clone or copy the repository.
@@ -36,7 +37,8 @@ Numpy
 https://www.quora.com/What-is-NumPy    
 https://medium.com/fintechexplained/why-should-we-use-numpy-c14a4fb03ee9    
 https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_iris.html    
-https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Typesetting%20Equations.html    
+https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Typesetting%20Equations.html 
+https://towardsdatascience.com/data-visualization-with-mathplotlib-using-python-a7bfb4628ee3       
 
 
 Random numbers    
@@ -79,6 +81,7 @@ Exponential
 https://kite.com/python/docs/numpy.random.exponential     
 https://docs.scipy.org/doc/numpy-1.15.0/reference/generated/numpy.random.exponential.html     
 https://www.youtube.com/watch?v=IT-0oCOQrBY     
+https://www.sciencedirect.com/topics/engineering/exponential-distribution     
 
 
 Permutation    
@@ -92,6 +95,7 @@ https://www.youtube.com/watch?v=zr7O2egWKQc
 Multinomial    
 https://www.statisticshowto.datasciencecentral.com/multinomial-distribution/     
 https://docs.scipy.org/doc/numpy-1.15.0/reference/generated/numpy.random.multinomial.html    
+https://www.quora.com/What-is-the-difference-between-multivariate-and-multinomial   
 
 
 Standard T    
