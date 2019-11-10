@@ -1,5 +1,5 @@
 # **Assignment-2019-programming-and-data-analysis**    
-My 2019 assignment in programming for data analysis
+## My 2019 assignment in programming for data analysis
 
 Last commit on or before November 11th, 2019
 Problem Statement
@@ -30,7 +30,7 @@ Access the repository on local machine via command line.  Run Jupyter notebook a
 
 In Jupyter notebook go to Kernal, restart and run all. 
 
-# References: 
+## References: 
 
 Numpy    
 https://www.quora.com/What-is-NumPy    
