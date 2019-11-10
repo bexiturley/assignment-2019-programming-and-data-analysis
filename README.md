@@ -1,4 +1,4 @@
-#**Assignment-2019-programming-and-data-analysis**
+**Assignment-2019-programming-and-data-analysis**    
 My 2019 assignment in programming for data analysis
 
 Last commit on or before November 11th, 2019
@@ -32,72 +32,72 @@ In Jupyter notebook go to Kernal, restart and run all.
 
 # References: 
 
-Numpy
-https://www.quora.com/What-is-NumPy
-https://medium.com/fintechexplained/why-should-we-use-numpy-c14a4fb03ee9
-https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_iris.html
-https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Typesetting%20Equations.html
+Numpy    
+https://www.quora.com/What-is-NumPy    
+https://medium.com/fintechexplained/why-should-we-use-numpy-c14a4fb03ee9    
+https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_iris.html    
+https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Typesetting%20Equations.html    
 
 
+Random numbers    
+https://www.scratchapixel.com/lessons/mathematics-physics-for-computer-graphics/monte-carlo-methods-in-practice/generating-random-numbers    
+https://www.investopedia.com/terms/m/montecarlosimulation.asp    
+https://www.solver.com/press/monte-carlo-methods-led-atomic-bomb-may-be-your-best-bet-business-decision-making    
+https://docs.scipy.org/doc/numpy-1.14.0/reference/routines.random.html    
+https://www.geeksforgeeks.org/numpy-random-rand-python/    
+https://www.geeksforgeeks.org/python-random-sample-function/    
+https://docs.scipy.org/doc/numpy-1.16.0/reference/routines.random.html?highlight=random#simple-random-data    
+https://pynative.com/python-get-random-float-numbers/    
+https://www.youtube.com/watch?v=KzqSDvzOFNA    
+https://pynative.com/python-generate-random-string/    
+https://stackoverflow.com/questions/22071987/generate-random-array-of-floats-between-a-range    
+https://stackoverflow.com/questions/18829185/difference-between-various-numpy-random-functions    
+     
 
-Random numbers
-https://www.scratchapixel.com/lessons/mathematics-physics-for-computer-graphics/monte-carlo-methods-in-practice/generating-random-numbers
-https://www.investopedia.com/terms/m/montecarlosimulation.asp
-https://www.solver.com/press/monte-carlo-methods-led-atomic-bomb-may-be-your-best-bet-business-decision-making
-https://docs.scipy.org/doc/numpy-1.14.0/reference/routines.random.html
-https://www.geeksforgeeks.org/numpy-random-rand-python/
-https://www.geeksforgeeks.org/python-random-sample-function/
-https://docs.scipy.org/doc/numpy-1.16.0/reference/routines.random.html?highlight=random#simple-random-data
-https://pynative.com/python-get-random-float-numbers/
-https://www.youtube.com/watch?v=KzqSDvzOFNA
-https://pynative.com/python-generate-random-string/
-https://stackoverflow.com/questions/22071987/generate-random-array-of-floats-between-a-range
-https://stackoverflow.com/questions/18829185/difference-between-various-numpy-random-functions
-
-
-
-Uniform
-https://www.investopedia.com/terms/u/uniform-distribution.asp
-
-Psudorandom
-https://www.khanacademy.org/computing/computer-science/cryptography/crypt/v/random-vs-pseudorandom-number-generators
-https://docs.python.org/3/library/secrets.html
+Uniform     
+https://www.investopedia.com/terms/u/uniform-distribution.asp     
 
 
-
-Seed
-https://www.sharpsightlabs.com/blog/numpy-random-seed/
-https://stackoverflow.com/questions/21494489/what-does-numpy-random-seed0-do
-https://stats.stackexchange.com/questions/354373/what-exactly-is-a-seed-in-a-random-number-generator
-https://en.wikipedia.org/wiki/Random_seed
-
-Shuffle
-https://stackoverflow.com/questions/15474159/shuffle-vs-permute-numpy
-https://pynative.com/python-random-shuffle/
-
-Exponential
-https://kite.com/python/docs/numpy.random.exponential
-https://docs.scipy.org/doc/numpy-1.15.0/reference/generated/numpy.random.exponential.html
-https://www.youtube.com/watch?v=IT-0oCOQrBY
+Psudorandom    
+https://www.khanacademy.org/computing/computer-science/cryptography/crypt/v/random-vs-pseudorandom-number-generators    
+https://docs.python.org/3/library/secrets.html     
 
 
-Permutation
-https://kite.com/python/docs/numpy.random.permutation
-https://docs.python.org/2/library/itertools.html#itertools.permutations
-https://www.geeksforgeeks.org/python-all-possible-permutations-of-n-lists/
-https://www.youtube.com/watch?v=hqijNdQTBH8
-https://www.youtube.com/watch?v=zr7O2egWKQc
+Seed    
+https://www.sharpsightlabs.com/blog/numpy-random-seed/     
+https://stackoverflow.com/questions/21494489/what-does-numpy-random-seed0-do     
+https://stats.stackexchange.com/questions/354373/what-exactly-is-a-seed-in-a-random-number-generator     
+https://en.wikipedia.org/wiki/Random_seed      
 
 
+Shuffle     
+https://stackoverflow.com/questions/15474159/shuffle-vs-permute-numpy    
+https://pynative.com/python-random-shuffle/     
 
-Multinomial
-https://www.statisticshowto.datasciencecentral.com/multinomial-distribution/
-https://docs.scipy.org/doc/numpy-1.15.0/reference/generated/numpy.random.multinomial.html
 
-Standard T
-https://www.statisticshowto.datasciencecentral.com/probability-and-statistics/t-distribution/
-https://towardsdatascience.com/inferential-statistics-series-t-test-using-numpy-2718f8f9bf2f
-https://stackoverflow.com/questions/42331555/having-trouble-visualizing-a-t-distribution-in-python
-https://docs.scipy.org/doc/numpy-1.13.0/reference/generated/numpy.random.standard_t.html
-https://www.mathplanet.com/education/algebra-2/quadratic-functions-and-inequalities/standard-deviation-and-normal-distribution
+Exponential     
+https://kite.com/python/docs/numpy.random.exponential     
+https://docs.scipy.org/doc/numpy-1.15.0/reference/generated/numpy.random.exponential.html     
+https://www.youtube.com/watch?v=IT-0oCOQrBY     
+
+
+Permutation    
+https://kite.com/python/docs/numpy.random.permutation    
+https://docs.python.org/2/library/itertools.html#itertools.permutations    
+https://www.geeksforgeeks.org/python-all-possible-permutations-of-n-lists/    
+https://www.youtube.com/watch?v=hqijNdQTBH8    
+https://www.youtube.com/watch?v=zr7O2egWKQc    
+
+
+Multinomial    
+https://www.statisticshowto.datasciencecentral.com/multinomial-distribution/     
+https://docs.scipy.org/doc/numpy-1.15.0/reference/generated/numpy.random.multinomial.html    
+
+
+Standard T    
+https://www.statisticshowto.datasciencecentral.com/probability-and-statistics/t-distribution/     
+https://towardsdatascience.com/inferential-statistics-series-t-test-using-numpy-2718f8f9bf2f     
+https://stackoverflow.com/questions/42331555/having-trouble-visualizing-a-t-distribution-in-python    
+https://docs.scipy.org/doc/numpy-1.13.0/reference/generated/numpy.random.standard_t.html     
+https://www.mathplanet.com/education/algebra-2/quadratic-functions-and-inequalities/standard-deviation-and-normal-distribution      
 
